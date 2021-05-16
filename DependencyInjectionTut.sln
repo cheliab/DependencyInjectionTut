@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tut_01_Basic", "Tut_01_Basic\Tut_01_Basic.csproj", "{BC41B1EC-8F97-4529-A80E-C84149EFFEA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tut_02_IoC", "Tut_02_IoC\Tut_02_IoC.csproj", "{09DCD9BC-7564-4B65-9D58-E1AEFEF7865F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC41B1EC-8F97-4529-A80E-C84149EFFEA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC41B1EC-8F97-4529-A80E-C84149EFFEA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC41B1EC-8F97-4529-A80E-C84149EFFEA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC41B1EC-8F97-4529-A80E-C84149EFFEA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09DCD9BC-7564-4B65-9D58-E1AEFEF7865F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09DCD9BC-7564-4B65-9D58-E1AEFEF7865F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09DCD9BC-7564-4B65-9D58-E1AEFEF7865F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09DCD9BC-7564-4B65-9D58-E1AEFEF7865F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
