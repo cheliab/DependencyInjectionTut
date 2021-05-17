@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tut_04_DI_ConstructorInject
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tut_05_DI_PropertyInjection", "Tut_05_DI_PropertyInjection\Tut_05_DI_PropertyInjection.csproj", "{730C9121-F0BB-40B5-A639-E9F3B0582649}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tut_06_DI_MethodInjection", "Tut_06_DI_MethodInjection\Tut_06_DI_MethodInjection.csproj", "{89854CDA-FB27-4004-84D8-F39CABFD921E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{730C9121-F0BB-40B5-A639-E9F3B0582649}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{730C9121-F0BB-40B5-A639-E9F3B0582649}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{730C9121-F0BB-40B5-A639-E9F3B0582649}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89854CDA-FB27-4004-84D8-F39CABFD921E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89854CDA-FB27-4004-84D8-F39CABFD921E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89854CDA-FB27-4004-84D8-F39CABFD921E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89854CDA-FB27-4004-84D8-F39CABFD921E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
